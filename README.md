@@ -7,4 +7,4 @@ Based on this example:
 http://msdn.microsoft.com/it-it/library/windows/desktop/dd319091%28v=vs.85%29.aspx
 
 KyaaLocale executable version:
-http://limelinx.com/bksiu
+http://limelinx.com/c5n18
